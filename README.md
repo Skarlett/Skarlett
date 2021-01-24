@@ -1,25 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Skarlett/Skarlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+My portfolio is still a work in progress,
 
+#### rust
++ scurry is a network service discovery service tool built on tokio
++ charsub is just a string permutator
 
-## Stats:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skarlett&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarlett&count=5&hide=javascript,html,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### python
++ plugin-frame is just a framework for loading python libraries at runtime
++ moresets is just ordered, and deque based sets
