@@ -12,3 +12,9 @@ I have strong interests in
   - html **/** css **/** vanilla js - frontend
   - python **/** php **/** rust **/** c **/** java **/** bash - general purpose languages
  
+languages my hearts growing interests in
+  - common lisp
+  - elixir
+  - perl
+  - Koltin
+
