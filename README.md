@@ -10,11 +10,11 @@ I have strong interests in
   - linux **/** posix like enviroments
   - mySQL **/** sqlite **/** postgresql - databases
   - html **/** css **/** vanilla js - frontend
-  - python **/** php **/** rust **/** c **/** java **/** bash - general purpose languages
+  - python **/** php **/** rust **/** c **/** java **/** go **/** c# -  general purpose languages
  
 languages my hearts growing interests in
   - common lisp
   - elixir
   - perl
-  - Koltin
+  - koltin
 
