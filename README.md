@@ -5,12 +5,6 @@ I have strong interests in
   - Programming
   - Security research
  
- My development experience is primarily (not an exhaustive list)
-  - linux **/** posix like enviroments
-  - mySQL **/** sqlite **/** postgresql - databases
-  - html **/** css **/** vanilla js - frontend
-  - python **/** php **/** rust **/** c **/** java **/** go **/** c# -  general purpose languages
- 
 my hearts growing interests in
   - Cloud runtimes
   - DevOps
